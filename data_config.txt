@@ -1,0 +1,4 @@
+#Fri Aug 28 10:36:50 IST 2020
+uname=Shubham
+url=localhost\:3303/mydb
+pass=8976
